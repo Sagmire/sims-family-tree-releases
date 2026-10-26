@@ -4,7 +4,7 @@
 
 **Plan, track and remember your Sims 4 families — all in one cosy little app for Windows.**
 
-Family trees · Legacy challenges · Pets · Birthdays · Journal · Goals · Cheats
+Family trees · Tree styles · Legacy challenges · Pets · Birthdays · Journal · Stats · Cheats
 
 <a href="https://github.com/Sagmire/sims-family-tree-releases/releases/latest"><img alt="Download for Windows" src="https://img.shields.io/badge/Download-Windows%2010%20%26%2011-2fa84f?style=for-the-badge&logo=windows&logoColor=white"></a>
 &nbsp;
@@ -32,6 +32,7 @@ Add Sims and link them up — the tree lays itself out by generation, with partn
 - 🐾 Cats, dogs, horses and small pets
 - 🫳 Drag one Sim onto another to link them
 - 🔗 *How related?* — "second cousin once removed" and all
+- 🎯 Focus on one Sim's family line, or ⤢ fit the whole tree on screen
 
 </td>
 <td width="50%" valign="top">
@@ -45,6 +46,17 @@ Point it at your Sims 4 save and tick the households — names, parents, partner
 - 👶 One-click baby, 🎂 age up and 🪦 passed-away buttons
 - 💭 Plan future Sims before they're born
 - 📦 Only shows things from the packs **you** own
+- ↩️ Deleted a Sim by mistake? Click **Undo**
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🌳 Pick the look of your tree
+**Classic** cards, **Compact** circles that fit a big legacy on screen, an old-fashioned **Storybook** page, or big round **Bubbles** for Sims with pictures. Saved pictures and prints match the look you pick.
+
+<img src="screenshots/tree-styles.png" alt="The same family tree in the Classic, Compact, Storybook and Bubbles styles" width="860">
 
 </td>
 </tr>
@@ -58,7 +70,7 @@ Legacy laws and heirs with a golden heir line, plus Legacy, 100 Baby, Rags to Ri
 <td valign="top">
 
 ### 📅 Your family's story
-A timeline of births, birthdays, weddings and deaths, today's in-game day with upcoming birthdays, a journal with screenshots, and goals for each Sim.
+A timeline of births, birthdays, weddings and deaths, today's in-game day with upcoming birthdays, a journal with screenshots, goals for each Sim, and a **Stats** page with your families in numbers.
 
 </td>
 </tr>
@@ -66,13 +78,13 @@ A timeline of births, birthdays, weddings and deaths, today's in-game day with u
 <td valign="top">
 
 ### 🏡 Households & homes
-Every household as a card with its family picture, plus the world, lot and pictures of each home. Sims can move out and stay in sync on both trees.
+Every household as a card with its family picture, plus the world, lot and pictures of each home, and a board of building inspiration photos sorted by room. Sims can move out and stay in sync on both trees.
 
 </td>
 <td valign="top">
 
 ### 💡 Extras
-A cheat sheet by category with copy buttons, a random Sim generator, 10 colour themes, dark mode, printing, and save-as-picture.
+A cheat sheet by category with copy buttons, a random Sim generator, 10 colour themes, dark mode, save-as-picture, and printing on one page or as a big poster to tape together.
 
 </td>
 </tr>
@@ -90,8 +102,8 @@ A cheat sheet by category with copy buttons, a random Sim generator, 10 colour t
 <td><img src="screenshots/dark-mode.png" alt="Dark mode with the Pink Blossom theme"><br><sub><b>Dark mode</b> + 10 colour themes (here: Pink Blossom)</sub></td>
 </tr>
 <tr>
-<td><img src="screenshots/cheats.png" alt="Cheats tab"><br><sub><b>Cheats</b> by category, with copy buttons and favourites</sub></td>
-<td><img src="screenshots/setup.png" alt="First-run setup asking which packs you own"><br><sub><b>Quick setup</b>: your packs, backups and look</sub></td>
+<td><img src="screenshots/stats.png" alt="Stats page with traits, life stages and generations"><br><sub><b>Stats</b>: your families in numbers</sub></td>
+<td><img src="screenshots/tour.png" alt="The quick tour pointing at the Add Sim button"><br><sub><b>Quick tour</b> for new players (with a Skip button)</sub></td>
 </tr>
 </table>
 
@@ -110,17 +122,20 @@ Double-click the file you downloaded and follow the steps.
 > Click **More info → Run anyway**. You only need to do this once.
 
 ### 3. Quick setup (about a minute)
-The first time it opens, the app asks four quick things — you can change all of them later from the **⋯** menu:
+The first time it opens, the app asks a few quick things — you can change all of them later from the **⋯** menu:
 
 | Step | What it asks | Tip |
 |:---:|---|---|
 | 📦 | **Which packs you own** | Tap **Select all** if you have everything. Things from packs you don't own are hidden. |
 | 💾 | **How to back up** | **Automatic** is easiest — your families are saved in the background. |
-| 🎨 | **Pick a look** | Light, dark or match your computer, plus a colour theme. |
+| 🎨 | **Pick a look** | Light, dark or match your computer, a colour theme, and the tree style. |
 | 🎮 | **Bring in your families?** | Choose **Import from my game** to pick your save and households — or start fresh. |
+| 🧭 | **Take a quick tour?** | A few short tips that show where everything is. Skip it if you like — it's in **❓ Help** any time. |
+
+<img src="screenshots/setup.png" alt="Setup step 3: light or dark, colour theme and tree style" width="640">
 
 ### 4. Start your first family
-**Already playing?** Import your households from the game (setup step 4, or **⋯ → 🎮 Import from The Sims 4** any time). Your newest save is at the top of the list.
+**Already playing?** Import your households from the game (in setup, or **⋯ → 🎮 Import from The Sims 4** any time). Your newest save is at the top of the list.
 
 **Starting fresh?** Click **+ Create a household**, give it a name, then **+ Add Sim**. Only a first name is needed — fill in the rest whenever you like.
 
@@ -134,7 +149,7 @@ The first time it opens, the app asks four quick things — you can change all o
 The app checks for new versions by itself. When one is ready you'll see a banner at the top:
 
 1. Click **Download** (or **Later** if you're mid-game).
-2. When it's done, click **Restart & update**.
+2. When it's done, click **Restart & update**. An "Updating…" screen shows while your families are backed up, then the app closes, updates and opens again by itself — with a list of what's new.
 
 Your families are **backed up automatically before every update**, and nothing downloads or installs unless you click. To check straight away: **⋯ → 🔄 Check for updates**.
 
@@ -146,7 +161,7 @@ Your families are **backed up automatically before every update**, and nothing d
 
 ## ❓ Need help?
 
-Click **❓ Help** in the app — it explains every icon, line and button, with a search box and step-by-step "How do I…" answers.
+Click **❓ Help** in the app — it explains every icon, line and button, with a search box and step-by-step "How do I…" answers. **🧭 Take the tour** at the top shows you around again.
 
 <div align="center">
 <br>
