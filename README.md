@@ -84,7 +84,7 @@ Every household as a card with its family picture, plus the world, lot and pictu
 <td valign="top">
 
 ### 💡 Extras
-A cheat sheet by category with copy buttons, a random Sim generator, 10 colour themes, dark mode, save-as-picture, and printing on one page or as a big poster to tape together.
+A cheat sheet by category with copy buttons, a random Sim generator, 10 colour themes, dark mode, save-as-picture, and printing on one page or as a big poster to tape together. Plus **Undo for any change** (Ctrl + Z), bigger text, hiding tabs you don't use, Sims-style sounds and keyboard shortcuts.
 
 </td>
 </tr>
@@ -128,7 +128,7 @@ The first time it opens, the app asks a few quick things — you can change all 
 |:---:|---|---|
 | 📦 | **Which packs you own** | Tap **Select all** if you have everything. Things from packs you don't own are hidden. |
 | 💾 | **How to back up** | **Automatic** is easiest — your families are saved in the background. |
-| 🎨 | **Pick a look** | Light, dark or match your computer, a colour theme, and the tree style. |
+| 🎨 | **Pick a look** | Light, dark or match your computer, a colour theme, the tree style, and sounds on or muted. |
 | 🎮 | **Bring in your families?** | Choose **Import from my game** to pick your save and households — or start fresh. |
 | 🧭 | **Take a quick tour?** | A few short tips that show where everything is. Skip it if you like — it's in **❓ Help** any time. |
 
